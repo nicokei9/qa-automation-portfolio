@@ -1,5 +1,7 @@
 # QA Automation Portfolio
 
+![CI](https://github.com/nicokei9/qa-automation-portfolio/actions/workflows/main.yml/badge.svg)
+
 This repository contains my portfolio of automated testing projects for both UI and API layers, created during a training program. The tests were developed using **Cypress** for UI automation and **Postman / API frameworks** for API testing.
 
 ## 📂 Project Structure
